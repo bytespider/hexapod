@@ -1,0 +1,10 @@
+{
+  "name": "incywincy",
+  "version": "0.1.0",
+  "dependencies": {
+    "serialport": "~1.1.0",
+    "torque": "~0.1.0",
+    "vektor": "0.0.2",
+    "compulsive": "~0.3.1"
+  }
+}
